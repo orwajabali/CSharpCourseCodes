@@ -1,0 +1,7 @@
+D:\Documents\desktop\visual studio codes\My Programs\First Pogram\DataType-FloatPoiteType\obj\Debug\DataType-FloatPoiteType.csprojAssemblyReference.cache
+D:\Documents\desktop\visual studio codes\My Programs\First Pogram\DataType-FloatPoiteType\obj\Debug\DataType-FloatPoiteType.csproj.CoreCompileInputs.cache
+D:\Documents\desktop\visual studio codes\My Programs\First Pogram\DataType-FloatPoiteType\bin\Debug\DataType-FloatPoiteType.exe.config
+D:\Documents\desktop\visual studio codes\My Programs\First Pogram\DataType-FloatPoiteType\bin\Debug\DataType-FloatPoiteType.exe
+D:\Documents\desktop\visual studio codes\My Programs\First Pogram\DataType-FloatPoiteType\bin\Debug\DataType-FloatPoiteType.pdb
+D:\Documents\desktop\visual studio codes\My Programs\First Pogram\DataType-FloatPoiteType\obj\Debug\DataType-FloatPoiteType.exe
+D:\Documents\desktop\visual studio codes\My Programs\First Pogram\DataType-FloatPoiteType\obj\Debug\DataType-FloatPoiteType.pdb
