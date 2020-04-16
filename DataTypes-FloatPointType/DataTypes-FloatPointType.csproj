@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E3429389-CDD6-4714-9510-4E486DD64A5E}</ProjectGuid>
+    <ProjectGuid>{672E4017-CB32-493A-ADEF-65BABCB2EFE9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataType_FloatPoiteType</RootNamespace>
-    <AssemblyName>DataType-FloatPoiteType</AssemblyName>
+    <RootNamespace>DataTypes_FloatPointType</RootNamespace>
+    <AssemblyName>DataTypes-FloatPointType</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

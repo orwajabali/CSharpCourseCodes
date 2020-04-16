@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DataType-FloatPoiteType")]
+[assembly: AssemblyTitle("DataTypes-FloatPointType")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DataType-FloatPoiteType")]
+[assembly: AssemblyProduct("DataTypes-FloatPointType")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e3429389-cdd6-4714-9510-4e486dd64a5e")]
+[assembly: Guid("672e4017-cb32-493a-adef-65babcb2efe9")]
 
 // Version information for an assembly consists of the following four values:
 //
