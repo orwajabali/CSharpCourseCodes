@@ -1,0 +1,7 @@
+D:\Documents\Desktop\visual studio codes\my Varibales\bin\Debug\my Varibales.exe.config
+D:\Documents\Desktop\visual studio codes\my Varibales\bin\Debug\my Varibales.exe
+D:\Documents\Desktop\visual studio codes\my Varibales\bin\Debug\my Varibales.pdb
+D:\Documents\Desktop\visual studio codes\my Varibales\obj\Debug\my Varibales.csprojAssemblyReference.cache
+D:\Documents\Desktop\visual studio codes\my Varibales\obj\Debug\my Varibales.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\visual studio codes\my Varibales\obj\Debug\my Varibales.exe
+D:\Documents\Desktop\visual studio codes\my Varibales\obj\Debug\my Varibales.pdb
