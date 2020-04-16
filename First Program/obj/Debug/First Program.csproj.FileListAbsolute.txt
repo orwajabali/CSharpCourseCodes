@@ -1,0 +1,7 @@
+D:\Documents\Desktop\visual studio codes\My Programs\First Pogram\First Program\bin\Debug\First Program.exe.config
+D:\Documents\Desktop\visual studio codes\My Programs\First Pogram\First Program\bin\Debug\First Program.exe
+D:\Documents\Desktop\visual studio codes\My Programs\First Pogram\First Program\bin\Debug\First Program.pdb
+D:\Documents\Desktop\visual studio codes\My Programs\First Pogram\First Program\obj\Debug\First Program.csprojAssemblyReference.cache
+D:\Documents\Desktop\visual studio codes\My Programs\First Pogram\First Program\obj\Debug\First Program.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\visual studio codes\My Programs\First Pogram\First Program\obj\Debug\First Program.exe
+D:\Documents\Desktop\visual studio codes\My Programs\First Pogram\First Program\obj\Debug\First Program.pdb
