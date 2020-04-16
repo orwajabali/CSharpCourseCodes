@@ -1,0 +1,7 @@
+D:\Documents\desktop\visual studio codes\My Programs\DataTypes-CharStrlngboolTypes\bin\Debug\DataTypes-CharStrlngboolTypes.exe.config
+D:\Documents\desktop\visual studio codes\My Programs\DataTypes-CharStrlngboolTypes\bin\Debug\DataTypes-CharStrlngboolTypes.exe
+D:\Documents\desktop\visual studio codes\My Programs\DataTypes-CharStrlngboolTypes\bin\Debug\DataTypes-CharStrlngboolTypes.pdb
+D:\Documents\desktop\visual studio codes\My Programs\DataTypes-CharStrlngboolTypes\obj\Debug\DataTypes-CharStrlngboolTypes.csprojAssemblyReference.cache
+D:\Documents\desktop\visual studio codes\My Programs\DataTypes-CharStrlngboolTypes\obj\Debug\DataTypes-CharStrlngboolTypes.csproj.CoreCompileInputs.cache
+D:\Documents\desktop\visual studio codes\My Programs\DataTypes-CharStrlngboolTypes\obj\Debug\DataTypes-CharStrlngboolTypes.exe
+D:\Documents\desktop\visual studio codes\My Programs\DataTypes-CharStrlngboolTypes\obj\Debug\DataTypes-CharStrlngboolTypes.pdb
