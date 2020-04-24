@@ -1,0 +1,7 @@
+D:\Documents\desktop\visual studio codes\My Programs\Literal_Characters\bin\Debug\Literal_Characters.exe.config
+D:\Documents\desktop\visual studio codes\My Programs\Literal_Characters\bin\Debug\Literal_Characters.exe
+D:\Documents\desktop\visual studio codes\My Programs\Literal_Characters\bin\Debug\Literal_Characters.pdb
+D:\Documents\desktop\visual studio codes\My Programs\Literal_Characters\obj\Debug\Literal_Characters.csprojAssemblyReference.cache
+D:\Documents\desktop\visual studio codes\My Programs\Literal_Characters\obj\Debug\Literal_Characters.csproj.CoreCompileInputs.cache
+D:\Documents\desktop\visual studio codes\My Programs\Literal_Characters\obj\Debug\Literal_Characters.exe
+D:\Documents\desktop\visual studio codes\My Programs\Literal_Characters\obj\Debug\Literal_Characters.pdb
